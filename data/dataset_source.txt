@@ -1,0 +1,28 @@
+PROJECT: Data Sourcing, Import, and Transformation for Construction Metrics
+
+DATASET NAME:
+Output in the Construction Industry
+
+DATA PROVIDER:
+Office for National Statistics (ONS), United Kingdom
+
+OFFICIAL DATASET PAGE:
+https://www.ons.gov.uk/businessindustryandtrade/constructionindustry/datasets/outputintheconstructionindustry
+
+DIRECT CSV DOWNLOAD:
+https://static.ons.gov.uk/datasets/output-in-the-construction-industry-time-series-v52.csv
+
+DATA FORMAT:
+CSV (Comma-Separated Values)
+
+TOOL USED:
+Microsoft Power BI Desktop – Power Query Editor
+
+PURPOSE OF DATASET:
+The dataset is used to study construction industry output trends in the United Kingdom. It contains information about construction output values, time periods, geographical coverage, seasonal adjustments, measurement types, and categories of construction work.
+
+DATA USAGE:
+The dataset was imported into Power BI and processed using Power Query. The work included assigning data types, renaming columns, assessing missing values, and creating a MonthDate column for time-based analysis. The transformed data was used to build an interactive construction output dashboard.
+
+DATA ATTRIBUTION:
+The original dataset is provided by the UK Office for National Statistics (ONS). It is used for educational and internship project purposes. The dataset has not been presented as original data collected by the project author.
